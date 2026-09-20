@@ -34,3 +34,14 @@ The website is designed to work across:
 - 💻 Desktop
 - 💻 Laptop
 - 📱 Mobile devices
+
+
+  👨‍💻 Author
+
+Kunal Marwari
+
+MCA Student | Developer | Building Web & Software Projects |
+
+💻 GitHub: https://github.com/kunalmarwari1-design?tab=repositories
+
+💼 LinkedIn: http://www.linkedin.com/in/kunal-marwari-391847438
